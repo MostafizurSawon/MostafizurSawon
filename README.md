@@ -112,7 +112,7 @@ I have knowledge in html, css, bootstrap, javascript, react, firebase authentica
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MostafizurSawon)  -->
 
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=mostafizurSawon&bg_color=a6e7e6&color=024755&line=068798&point=403d3d&area=true&hide_border=true)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=mostafizurSawon&&theme=xcode)
 
 ![GitHub metrics](https://metrics.lecoq.io/MostafizurSawon)  
 
