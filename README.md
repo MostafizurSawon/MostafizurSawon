@@ -5,7 +5,7 @@
 
 Self-motivated, looking for a role as a frontend web developer/junior web developer. Passionate about building first-class web applications. Aiming to be an accomplished full-stack web developer. So, Now want to work at the industry level where I can work with responsibility and can achieve the highest level. I believe under supervised seniors, I can give my utmost best for the company.
 
-
+I have knowledge in html, css, bootstrap, javascript, react, firebase authentication, git, github, node.js, express.js, mongodb. Its not all. I am always hungry to learn new things.
 
 ## I'm a Junior Mer Stack developer.
 
@@ -70,7 +70,6 @@ Self-motivated, looking for a role as a frontend web developer/junior web develo
 
 <!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
 
----
 
 <!-- ### 📕 Latest Blog Posts -->
 
@@ -84,7 +83,7 @@ Self-motivated, looking for a role as a frontend web developer/junior web develo
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
 
----
+<!-- --- -->
 
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary> -->
