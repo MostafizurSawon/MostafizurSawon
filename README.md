@@ -43,6 +43,7 @@ I have knowledge in html, css, bootstrap, javascript, react, firebase authentica
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](#gh-light-mode-only)
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](#gh-light-mode-only)
 [<img align="left" alt="React_bootstrap" width="26px" src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4" style="padding-right:10px;" />](#gh-light-mode-only)
+[<img align="left" alt="materualUi" width="26px" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" style="padding-right:10px;" />](#gh-light-mode-only)
  <!-- [<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist] -->
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](#gh-light-mode-only)
@@ -53,6 +54,7 @@ I have knowledge in html, css, bootstrap, javascript, react, firebase authentica
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](#gh-dark-mode-only)
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](#gh-light-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="padding-right:10px;" />](#gh-light-mode-only)
+[<img align="left" alt="chrome_devtool" width="26px" src="https://raw.githubusercontent.com/ChromeDevTools/devtools-logo/master/512.png" style="padding-right:10px;" />](#gh-light-mode-only)
 <!-- [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](#gh-light-mode-only) -->
 
 
