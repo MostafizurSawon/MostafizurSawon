@@ -4,9 +4,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/rah_mostafizur?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=rah_mostafizur)
 
 
-## I'm a Junior MERN Stack developer.
+## I'm a MERN Stack developer.
 
-Self-motivated, looking for a role as a frontend web developer/junior web developer. Passionate about building first-class web applications. Aiming to be an accomplished full-stack web developer. So, Now want to work at the industry level where I can work with responsibility and can achieve the highest level. I believe under supervised seniors, I can give my utmost best for the company.
+Self-motivated, looking for a role as a frontend web developer/ web developer. Passionate about building first-class web applications. Aiming to be an accomplished full-stack web developer. So, Now want to work at the industry level where I can work with responsibility and can achieve the highest level. I believe under supervised seniors, I can give my utmost best for the company.
 
 I have knowledge in html, css, bootstrap, javascript, react, firebase authentication, git, github, node.js, express.js, mongodb. Its not all. I am always hungry to learn new things.
 
