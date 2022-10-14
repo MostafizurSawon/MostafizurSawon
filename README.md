@@ -110,7 +110,7 @@ I have knowledge in html, css, bootstrap, javascript, react, firebase authentica
 
 </details> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafizurSawon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafizurSawon&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafizurSawon&show_icons=true&count_private=true)  
 
