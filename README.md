@@ -1,138 +1,22 @@
-# Hi there, I'm Mostafizur Rahman 👋 
-
-[![Website](https://img.shields.io/website?label=mostafizur.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mostafizur.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rah_mostafizur?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=rah_mostafizur)
+# 💫 About Me:
+🔭 I’m currently working on Django-based projects.<br>👯 I’m looking to join as a junior Django/ full-stack developer. <br>🤝  looking for help with react<br>🌱 I’m currently learning Django DRF and React in depth <br>💬 Ask me about Python, Django, and Javascript.<br>⚡ Fun fact: I love playing guitar every now and then.
 
 
-## I'm a MERN Stack developer.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/s4sawon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.sawon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafizur-rahman-sawon) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18316244) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rah_mostafizur) 
 
-Self-motivated, looking for a role as a frontend web developer/ web developer. Passionate about building first-class web applications. Aiming to be an accomplished full-stack web developer. So, Now want to work at the industry level where I can work with responsibility and can achieve the highest level. I believe under supervised seniors, I can give my utmost best for the company.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MostafizurSawon&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MostafizurSawon&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafizurSawon&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-I have knowledge in html, css, bootstrap, javascript, react, firebase authentication, git, github, node.js, express.js, mongodb. Its not all. I am always hungry to learn new things.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
-<!-- - 🌱 I’m currently learning everything 🤣 -->
-<!-- - 👯 I’m looking to collaborate with other content creators -->
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to play guitar
-<!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://mostafizur.netlify.app/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://mostafizur.netlify.app/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/rah_mostafizur#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/rah_mostafizur#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/mostafizur-rahman-sawon#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mostafizur-rahman-sawon#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/mr.sawon#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/mr.sawon#gh-dark-mode-only)
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](#gh-light-mode-only)
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](#gh-light-mode-only)
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](#gh-light-mode-only)
-<!-- [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist] -->
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](#gh-light-mode-only)
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](#gh-light-mode-only)
-[<img align="left" alt="React_bootstrap" width="26px" src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4" style="padding-right:10px;" />](#gh-light-mode-only)
-[<img align="left" alt="materualUi" width="26px" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" style="padding-right:10px;" />](#gh-light-mode-only)
- <!-- [<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist] -->
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](#gh-light-mode-only)
-<!-- [<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]  -->
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](#gh-light-mode-only)
-<!-- [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist] -->
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](#gh-dark-mode-only)
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](#gh-light-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="padding-right:10px;" />](#gh-light-mode-only)
-[<img align="left" alt="chrome_devtool" width="26px" src="https://raw.githubusercontent.com/ChromeDevTools/devtools-logo/master/512.png" style="padding-right:10px;" />](#gh-light-mode-only)
-<!-- [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](#gh-light-mode-only) -->
-
-
-<br />
-<br />
-
-
-
-<!-- ### 📺 Latest YouTube Videos -->
-
-<!-- YOUTUBE:START -->
-<!-- - [Is Your NFT Rare? &lpar;Don&#39;t Buy or Sell Before Checking!!&rpar; - NFT Rarity Calculator](https://www.youtube.com/watch?v=Uz1y4j9gvP8)
-- [ERC-1155 Contracts Explained | Ethereum Blockchain](https://www.youtube.com/watch?v=S-2TuS9ISAg)
-- [ERC-721 Contracts Explained! | Ethereum Blockchain](https://www.youtube.com/watch?v=UCQaEbIyHcM)
-- [ERC-20 Contracts Explained! | Ethereum Blockchain](https://www.youtube.com/watch?v=v5BPna3v1Pw)
-- [What the Heck is ERC!? Ethereum Blockchain](https://www.youtube.com/watch?v=hf-Qk0Hx00E) -->
-<!-- YOUTUBE:END -->
-
-<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
-
-
-<!-- ### 📕 Latest Blog Posts -->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- - [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65) -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- ➡️ [more blog posts...](https://codestackr.com) -->
-
-<!-- --- -->
-
-<!-- <details>
-  <summary>:zap: Recent GitHub Activity</summary> -->
-  
-<!--START_SECTION:activity-->
-<!-- 1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-2. 💪 Opened PR [#1580](https://github.com/anuraghazra/github-readme-stats/pull/1580) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-5. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce) -->
-<!--END_SECTION:activity-->
-
-<!-- </details> -->
-
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="MostafzurSawon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MostafizurSawon&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details> -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafizurSawon&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafizurSawon&show_icons=true&count_private=true)  
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MostafizurSawon)  -->
-
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=mostafizurSawon&&theme=xcode)
-
-![GitHub metrics](https://metrics.lecoq.io/MostafizurSawon)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MostafizurSawon)  
-
-![Profile views](https://gpvc.arturio.dev/MostafizurSawon) 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/MostafizurSawon/count.svg) -->
-
-
-[website]: https://mostafizur.netlify.app/
-[course]: https://www.linkedin.com/in/mostafizur-rahman-sawon
-[twitter]: https://twitter.com/rah_mostafizur
-[instagram]: https://www.instagram.com/mr.sawon/
-[linkedin]: https://www.linkedin.com/in/mostafizur-rahman-sawon
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-# MostafizurSawon
+---
+[![](https://visitcount.itsvg.in/api?id=MostafizurSawon&icon=0&color=0)](https://visitcount.itsvg.in)
