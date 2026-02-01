@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django-based projects.<br>👯 I’m looking to join as a junior Django/ full-stack developer. <br>🤝  looking for help with react<br>🌱 I’m currently learning Django DRF and React in depth <br>💬 Ask me about Python, Django, and Javascript.<br>⚡ Fun fact: I love playing guitar every now and then.
+🔭 I’m currently working on Django-based projects.<br>👯 I’m looking for a client to work with. <br>🤝  looking for help with AI Agent<br>🌱 I’m currently learning Ai Agent in depth <br>💬 Ask me about Python, Django.<br>⚡ Fun fact: I love playing guitar now and then.
 
 
 ## 🌐 Socials:
